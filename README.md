@@ -6,6 +6,7 @@ Crowdsourced Resources For CLI UX Design
 
  * [Guidelines for Command Line Interface Design](http://www.cs.pomona.edu/classes/cs181f/supp/cli.html)
  * [Stackoverflow - CLI Patterns/Antipatterns for usability](https://stackoverflow.com/questions/762724/cli-patterns-antipatterns-for-usability)
+ * [Unix Interface Design Patterns](http://catb.org/esr/writings/taoup/html/ch11s06.html)
  * [Heroku Style Guide](https://gist.github.com/geemus/e75f3374939a42690506)
 
 ### Suggestions
