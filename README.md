@@ -16,7 +16,7 @@ Crowdsourced Resources For CLI UX Design
  * noun:verb ? ([@geemus](https://twitter.com/geemus/status/576387013907107843))
 
 ### Great Examples
- * chef knife cli ([@kurtpete](https://twitter.com/kurtpete/status/576408318513700864))
+ * [chef knife cli](http://t.co/nVuNtwN2e3) ([@kurtpete](https://twitter.com/kurtpete/status/576408318513700864))
 
 ### Not so great examples
  * git ([@kurtpete](https://twitter.com/kurtpete/status/576408318513700864))
