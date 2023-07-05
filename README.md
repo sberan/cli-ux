@@ -2,7 +2,7 @@
 Crowdsourced Resources For CLI UX Design
 
 
-###Links
+### Links
 
  * [Guidelines for Command Line Interface Design](http://www.cs.pomona.edu/classes/cs181f/supp/cli.html)
  * [Stackoverflow - CLI Patterns/Antipatterns for usability](https://stackoverflow.com/questions/762724/cli-patterns-antipatterns-for-usability)
